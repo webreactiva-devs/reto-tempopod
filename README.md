@@ -14,6 +14,18 @@ Cada uno de vosotros tomará las que quiera y del tamaño que quiera, lo extra y
 
 🔥 Además, por primera vez en uno de nuestros retos, incluiremos las Pull Requests!
 
+### Índice
+
+  * [🎧 Requisito funcional](#-requisito-funcional)
+    + [👀 Ojo, que ya está resuelto](#-ojo-que-ya-está-resuelto)
+  * [📋 Requisitos del reto](#-requisitos-del-reto)
+  * [👩‍💻 ¿Cómo participas en el reto?](#-c%C3%B3mo-participas-en-el-reto)
+  * [↗️ 1 Pull Request para cada proyecto](#%EF%B8%8F-1-pull-request-para-cada-proyecto)
+  * [🗓️ Fecha límite](#-fecha-límite)
+  * [🚀 Siguientes pasos](#-siguientes-pasos)
+  * [🛠️ ¿Qué puedes aprender en este reto?](#-qu--puedes-aprender-en-este-reto-)
+  * [🤗 Mecenazgo](#-mecenazgo)
+
 
 ![DALL·E 2024-02-29 10 59 36 - Una escena de pixel art que muestre un podcast en grabación, con micrófonos, auriculares y una mesa  En la esquina superior derecha, un reloj grande m](https://github.com/webreactiva-devs/reto-tempopod/assets/1122071/74ada8c1-9793-4832-bc80-84815b5d5f55)
 
