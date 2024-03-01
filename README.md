@@ -2,15 +2,15 @@
 
 Esta es la primera parte de un reto que espero que nos dé muchos “comederos de tarro” ;)
 
-Lo conté con detalle en [WRP 286. Después de la calma viene la tempestad (nuevo reto)].
+🎧 Lo conté con detalle en [WRP 286. Después de la calma viene la tempestad (nuevo reto)](https://premium.danielprimo.io/podcast/premium/despues-de-la-calma).
 
 El propósito es crear un “Stack de decisiones” alrededor de una funcionalidad. 
 
-Cada uno de vosotros tomará las que quiera y del tamaño que quiera, lo extra y más enriquecedor será compartirlo. 
+Cada uno de vosotros tomará las que quiera y del tamaño que quiera, lo extra y más enriquecedor será compartirlo. Empezamos por algo muy pequeño para ir escalando durante los próximos meses.
 
-☝️Cualquier mejora será fruto de una decisión correcta.
+> ☝️ Cualquier mejora será fruto de una decisión correcta.
 
-Empezamos por algo muy pequeño para ir escalando durante los próximos meses.
+
 
 🔥 Además, por primera vez en uno de nuestros retos, incluiremos las Pull Requests!
 
