@@ -57,7 +57,7 @@ El código es tan sencillo que ya lo tienes resuelto en la carpeta [examples](ht
 - JavaScript
 - PHP
 - Python
-- Java (no testeado)
+- Java (testeado ok)
 
 He usado ChatGPT para generarlo, [mira la conversación completa](https://chat.openai.com/share/e4c4964b-473c-464c-a527-98fb55ead0e0).
 
