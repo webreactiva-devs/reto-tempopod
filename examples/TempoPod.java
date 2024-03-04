@@ -1,4 +1,6 @@
-// Not tested ;)
+// Tested :)
+// ~/test via ☕ v17.0.10
+// ➜ java TempoPod 180
 
 import javax.xml.parsers.*;
 import org.w3c.dom.*;
