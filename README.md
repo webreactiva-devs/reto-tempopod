@@ -49,6 +49,7 @@ Puedes usar el de la carpeta `feed` de este repositorio. Esta es la URL del feed
 https://raw.githubusercontent.com/webreactiva-devs/reto-tempopod/main/feed/webreactiva.xml
 ```
 
+📝 Hay algunos ejemplos más en la carpeta `feed` de este repositorio: (para un feed vacío, otro don la duración marcada en formato MM:SS...)
 ‎
 
 ### 👀 Ojo, que ya está resuelto
