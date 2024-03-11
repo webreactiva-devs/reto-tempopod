@@ -1,0 +1,118 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+<script/>
+<script/>
+<channel>
+<title>Web Reactiva</title>
+<link>https://www.webreactiva.com/podcast</link>
+<description><![CDATA[Web Reactiva es un podcast sobre <a href="https://www.webreactiva.com/podcast" target="_blank" rel="noreferrer noopener">desarrollo y programación web</a>. Estamos en https://webreactiva.com .<br /><br />Te contaré historias para programadores que nunca antes habrás escuchado;)<br />Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, ecommerce, cloud, despliegues, frontend, programación a medida y más cosas. También hablaremos del negocio que podemos crear en torno al mundo developer.]]></description>
+<atom:link href="https://www.spreaker.com/show/2676652/episodes/feed" rel="self" type="application/rss+xml"/>
+<language>es</language>
+<category>Technology</category>
+<copyright>Copyright Daniel</copyright>
+<image>
+<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/445b8e758d3f127223542d4132560c58.jpg</url>
+<title>Web Reactiva</title>
+<link>https://www.webreactiva.com/podcast</link>
+</image>
+<lastBuildDate>Thu, 29 Feb 2024 09:20:14 +0000</lastBuildDate>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:owner>
+<itunes:name>Daniel Primo</itunes:name>
+<itunes:email>hola@danielprimo.io</itunes:email>
+</itunes:owner>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/445b8e758d3f127223542d4132560c58.jpg"/>
+<itunes:subtitle>Web Reactiva es un podcast de desarrollo y programación web. Recursos OpenSource y reflexiones personales sobre el ecosistema de creación de web.</itunes:subtitle>
+<itunes:summary><![CDATA[Web Reactiva es un podcast sobre <a href="https://www.webreactiva.com/podcast" target="_blank" rel="noreferrer noopener">desarrollo y programación web</a>. Estamos en https://webreactiva.com .<br /><br />Te contaré historias para programadores que nunca antes habrás escuchado;)<br />Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, ecommerce, cloud, despliegues, frontend, programación a medida y más cosas. También hablaremos del negocio que podemos crear en torno al mundo developer.]]></itunes:summary>
+<itunes:category text="Technology"/>
+<itunes:category text="Education">
+<itunes:category text="Courses"/>
+</itunes:category>
+<itunes:category text="Business">
+<itunes:category text="Entrepreneurship"/>
+</itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<item>
+<title>Decepcionado con la IA de "chatea con tu PDF"</title>
+<link>https://www.spreaker.com/episode/decepcionado-con-la-ia-de-chatea-con-tu-pdf--58874065</link>
+<description><![CDATA[La Guía para developers desfasados continúa el domingo hablando de la inocencia como motor de aprendizaje. <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Apúntate GRATIS para recibirla</a>.<br /><br />He probado de forma insistente la posibilidad de incluir mi propia documentación en los modelos generativos y algo estoy haciendo mal. O le he visto las costuras al sistema.<br /><br />En este episodio te cuento también como es el proceso para aportar documentación a tu IA generativa (GPT o la que sea) a través de bases de datos vectorizadas.<br /><br /><br /><br /><br /><ul><li><a href="https://webreactiva.dev/robotito-gpt" target="_blank" rel="noreferrer noopener">Chatea con RobotitoGPT</a> con más de 300 episodios de Web Reactiva (solo para ChatGPT Plus, no dejan abrirlo al gratis)</li><li><a href="https://www.webreactiva.com/cursos/masterclass/como-crear-aplicaciones-con-inteligencia-artificial-con-langchain-y-openai" target="_blank" rel="noreferrer noopener">Cómo crear aplicaciones con Inteligencia Artificial con LangChain y OpenAI</a></li><li><a href="https://webreactiva.dev/feedback-wr-285" target="_blank" rel="noreferrer noopener">Feedback del episodio</a></li></ul><br />WR | WR285<br /><br />]]></description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/58874065</guid>
+<pubDate>Thu, 29 Feb 2024 09:19:55 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/58874065/web_reactiva_285.mp3" length="14437899" type="audio/mpeg"/>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:subtitle>La Guía para developers desfasados continúa el domingo hablando de la inocencia como motor de aprendizaje. https://webreactiva.dev/newsletter.He probado de forma insistente la posibilidad de incluir mi propia documentación en los modelos generativos...</itunes:subtitle>
+<itunes:summary><![CDATA[La Guía para developers desfasados continúa el domingo hablando de la inocencia como motor de aprendizaje. <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Apúntate GRATIS para recibirla</a>.<br /><br />He probado de forma insistente la posibilidad de incluir mi propia documentación en los modelos generativos y algo estoy haciendo mal. O le he visto las costuras al sistema.<br /><br />En este episodio te cuento también como es el proceso para aportar documentación a tu IA generativa (GPT o la que sea) a través de bases de datos vectorizadas.<br /><br /><br /><br /><br /><ul><li><a href="https://webreactiva.dev/robotito-gpt" target="_blank" rel="noreferrer noopener">Chatea con RobotitoGPT</a> con más de 300 episodios de Web Reactiva (solo para ChatGPT Plus, no dejan abrirlo al gratis)</li><li><a href="https://www.webreactiva.com/cursos/masterclass/como-crear-aplicaciones-con-inteligencia-artificial-con-langchain-y-openai" target="_blank" rel="noreferrer noopener">Cómo crear aplicaciones con Inteligencia Artificial con LangChain y OpenAI</a></li><li><a href="https://webreactiva.dev/feedback-wr-285" target="_blank" rel="noreferrer noopener">Feedback del episodio</a></li></ul><br />WR | WR285<br /><br />]]></itunes:summary>
+<itunes:duration>15:03</itunes:duration>
+<itunes:keywords>customgpt,gpt,ia,webreactiva</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/445b8e758d3f127223542d4132560c58.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Lo más top en desarrollo web para 2024</title>
+<link>https://webreactiva.com/podcast/lo-mas-top-en-desarrollo-web-para-2024</link>
+<description><![CDATA[La newsletter con la guía para developers desfasados te espera el próximo domingo. <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Apúntate gratis</a>.<br /><br />Entra en <a href="https://webreactiva.dev/devs-desfasados" target="_blank" rel="noreferrer noopener">la primera parte de la Guía.</a><br /><br />En este <a href="https://prismic.io/blog/web-development-trends" target="_blank" rel="noreferrer noopener">artículo</a> de Prismic se destacan 10 tendencias muy top para 2024 en desarrollo web. <br /><br />Hay varias muy ciertas, algunas que quizás ya no sean tanta tendencia y 1 SORPRESÓN.<br /><br />WR | WR284]]></description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/58838972</guid>
+<pubDate>Tue, 27 Feb 2024 06:00:02 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/58838972/web_reactiva_284.mp3" length="14427846" type="audio/mpeg"/>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:subtitle>La newsletter con la guía para developers desfasados te espera el próximo domingo. https://webreactiva.dev/newsletter.Entra en https://webreactiva.dev/devs-desfasadosEn este https://prismic.io/blog/web-development-trends de Prismic se destacan 10...</itunes:subtitle>
+<itunes:summary><![CDATA[La newsletter con la guía para developers desfasados te espera el próximo domingo. <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Apúntate gratis</a>.<br /><br />Entra en <a href="https://webreactiva.dev/devs-desfasados" target="_blank" rel="noreferrer noopener">la primera parte de la Guía.</a><br /><br />En este <a href="https://prismic.io/blog/web-development-trends" target="_blank" rel="noreferrer noopener">artículo</a> de Prismic se destacan 10 tendencias muy top para 2024 en desarrollo web. <br /><br />Hay varias muy ciertas, algunas que quizás ya no sean tanta tendencia y 1 SORPRESÓN.<br /><br />WR | WR284]]></itunes:summary>
+<itunes:duration>14:49</itunes:duration>
+<itunes:keywords>top2024,webreactiva</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f4ffb94810cca07f9c5eac7304560538.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Herramientas para estar actualizado en programación sin mucho esfuerzo</title>
+<link>https://open.substack.com/pub/webreactiva/p/guia-para-developers-desfasados-el</link>
+<description><![CDATA[Tres herramientas para la primera fase de la Guía para developers desfasaos.<br /><br />Lee los trucos del primer envío: <a href="https://open.substack.com/pub/webreactiva/p/guia-para-developers-desfasados-el?r=ey3p&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noreferrer noopener">El poder del pulgar</a><br /><br /><br /><ol><li><a href="https://app.daily.dev/" target="_blank" rel="noreferrer noopener">https://app.daily.dev/</a></li><li><a href="https://git.news/" target="_blank" rel="noreferrer noopener">https://git.news/</a></li><li><a href="https://www.listr.pro/" target="_blank" rel="noreferrer noopener">https://www.listr.pro/</a></li></ol><br /><br /><br />WR | WR283]]></description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/58814866</guid>
+<pubDate>Sun, 25 Feb 2024 12:20:55 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/58814866/web_reactiva_283.mp3" length="12239898" type="audio/mpeg"/>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:subtitle>Tres herramientas para la primera fase de la Guía para developers desfasaos.Lee los trucos del primer envío: https://open.substack.com/pub/webreactiva/p/guia-para-developers-desfasados-el?r=ey3p&amp;amp;utm_campaign=post&amp;amp;utm_medium=web-...</itunes:subtitle>
+<itunes:summary><![CDATA[Tres herramientas para la primera fase de la Guía para developers desfasaos.<br /><br />Lee los trucos del primer envío: <a href="https://open.substack.com/pub/webreactiva/p/guia-para-developers-desfasados-el?r=ey3p&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noreferrer noopener">El poder del pulgar</a><br /><br /><br /><ol><li><a href="https://app.daily.dev/" target="_blank" rel="noreferrer noopener">https://app.daily.dev/</a></li><li><a href="https://git.news/" target="_blank" rel="noreferrer noopener">https://git.news/</a></li><li><a href="https://www.listr.pro/" target="_blank" rel="noreferrer noopener">https://www.listr.pro/</a></li></ol><br /><br /><br />WR | WR283]]></itunes:summary>
+<itunes:duration>11:45</itunes:duration>
+<itunes:keywords>actualizarse,desfasados,webreactiva</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/f66106c8cb4b7e191fe35f5d39ea2215.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Un solo developer contra Google y Meta</title>
+<link>https://webreactiva.com/podcast/un-solo-developer-contra-google-y-meta</link>
+<description><![CDATA[Guía para developers desfasados este domingo! <a href="http://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Suscríbete gratis a la newsletter</a>.<br /><br />El nacimiento de una idea<br /><br />Tero, motivado por una frustración creciente con el estado actual del desarrollo frontend, decide embarcarse en la creación de NueJS. <br /><br />Su visión es clara: desarrollar un framework que no solo sea accesible para los desarrolladores sino que también empodere a los creadores de contenido, haciendo la web un lugar más inclusivo y fácil de manejar.<br /><br />Vídeo: <a href="https://www.youtube.com/watch?v=Ts4OJTQOo2A" target="_blank" rel="noreferrer noopener">El final de React se llama NueJS</a><br /><br /><br />La filosofía detrás de NUEJS<br /><br />El proyecto de Tero se centra en tres pilares fundamentales:<br /><ol><li>Simplicidad y accesibilidad: Reducir la barrera de entrada para ambos, desarrolladores y no desarrolladores, permitiendo que más personas puedan crear y gestionar contenido web sin necesidad de conocimientos técnicos avanzados.</li><li>Rendimiento y escalabilidad: Ofrecer una solución que sea ligera y rápida, capaz de escalar según las necesidades del proyecto sin sacrificar la experiencia del usuario.</li><li>Enfoque en el contenido (Content First): Priorizar el contenido sobre la tecnología, facilitando que la creación de páginas web sea más intuitiva y centrada en lo que realmente importa: el mensaje que se quiere transmitir.</li></ol>Desafíos y oportunidades<br /><br />A pesar del entusiasmo y la dedicación de Tero, el camino para NueJS está lleno de desafíos. Competir con soluciones establecidas como Angular y React no es tarea fácil. Sin embargo, la propuesta de valor de NUEJS reside en su enfoque único, que podría captar la atención de una comunidad cansada de la complejidad y en busca de alternativas más amigables y eficientes.<br /><br /><br /><a href="https://nuejs.org/" target="_blank" rel="noreferrer noopener">NueJS</a><br /><br />WR | WR282]]></description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/58763873</guid>
+<pubDate>Wed, 21 Feb 2024 23:01:21 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/58763873/web_reactiva_282.mp3" length="13258508" type="audio/mpeg"/>
+<podcast:transcript url="https://podcasts-embed.musixmatch.com/t/01HQ6YV0RJYYDE1B3F4RACFF56.srt" type="application/x-subrip" language="es"/>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:subtitle>Guía para developers desfasados este domingo! http://webreactiva.dev/newsletter.El nacimiento de una ideaTero, motivado por una frustración creciente con el estado actual del desarrollo frontend, decide embarcarse en la creación de NueJS. Su...</itunes:subtitle>
+<itunes:summary><![CDATA[Guía para developers desfasados este domingo! <a href="http://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">Suscríbete gratis a la newsletter</a>.<br /><br />El nacimiento de una idea<br /><br />Tero, motivado por una frustración creciente con el estado actual del desarrollo frontend, decide embarcarse en la creación de NueJS. <br /><br />Su visión es clara: desarrollar un framework que no solo sea accesible para los desarrolladores sino que también empodere a los creadores de contenido, haciendo la web un lugar más inclusivo y fácil de manejar.<br /><br />Vídeo: <a href="https://www.youtube.com/watch?v=Ts4OJTQOo2A" target="_blank" rel="noreferrer noopener">El final de React se llama NueJS</a><br /><br /><br />La filosofía detrás de NUEJS<br /><br />El proyecto de Tero se centra en tres pilares fundamentales:<br /><ol><li>Simplicidad y accesibilidad: Reducir la barrera de entrada para ambos, desarrolladores y no desarrolladores, permitiendo que más personas puedan crear y gestionar contenido web sin necesidad de conocimientos técnicos avanzados.</li><li>Rendimiento y escalabilidad: Ofrecer una solución que sea ligera y rápida, capaz de escalar según las necesidades del proyecto sin sacrificar la experiencia del usuario.</li><li>Enfoque en el contenido (Content First): Priorizar el contenido sobre la tecnología, facilitando que la creación de páginas web sea más intuitiva y centrada en lo que realmente importa: el mensaje que se quiere transmitir.</li></ol>Desafíos y oportunidades<br /><br />A pesar del entusiasmo y la dedicación de Tero, el camino para NueJS está lleno de desafíos. Competir con soluciones establecidas como Angular y React no es tarea fácil. Sin embargo, la propuesta de valor de NUEJS reside en su enfoque único, que podría captar la atención de una comunidad cansada de la complejidad y en busca de alternativas más amigables y eficientes.<br /><br /><br /><a href="https://nuejs.org/" target="_blank" rel="noreferrer noopener">NueJS</a><br /><br />WR | WR282]]></itunes:summary>
+<itunes:duration>13:10</itunes:duration>
+<itunes:keywords>framework,nuejs,webreactiva</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/de46aa96cf14499e41a5862992f9ab62.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
+<title>Apple liquida las PWA</title>
+<link>https://webreactiva.com/podcast/apple-liquida-las-pwa</link>
+<description><![CDATA[Apúntate a la newsletter para recibir 12 recursos para developers cada domingo: <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">https://webreactiva.dev/newsletter</a><br /><br />Sergi nos traía a la Comunidad Malandriner una noticia impactante: Apple ha decidido eliminar el soporte para las Aplicaciones Web Progresivas (PWA) en la Unión Europea, una decisión que ha sacudido al mundo tecnológico. Haremos un recorrido por el origen y las características principales de las PWA, explicando cómo estas permiten a los usuarios disfrutar de una experiencia similar a la de las aplicaciones nativas directamente desde su navegador, incluyendo funcionalidades como el modo offline, acceso a la cámara y geolocalización.<br /><br />https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/<br />https://whatpwacando.today/<br /><br />Más en <a href="https://webreactiva.com" target="_blank" rel="noreferrer noopener">Web Reactiva</a><br /><br />WR | WR281]]></description>
+<guid isPermaLink="false">https://api.spreaker.com/episode/58748330</guid>
+<pubDate>Tue, 20 Feb 2024 08:41:06 +0000</pubDate>
+<enclosure url="https://api.spreaker.com/download/episode/58748330/web_reactiva_281.mp3" length="13567338" type="audio/mpeg"/>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:subtitle>Apúntate a la newsletter para recibir 12 recursos para developers cada domingo: https://webreactiva.dev/newsletterSergi nos traía a la Comunidad Malandriner una noticia impactante: Apple ha decidido eliminar el soporte para las Aplicaciones Web...</itunes:subtitle>
+<itunes:summary><![CDATA[Apúntate a la newsletter para recibir 12 recursos para developers cada domingo: <a href="https://webreactiva.dev/newsletter" target="_blank" rel="noreferrer noopener">https://webreactiva.dev/newsletter</a><br /><br />Sergi nos traía a la Comunidad Malandriner una noticia impactante: Apple ha decidido eliminar el soporte para las Aplicaciones Web Progresivas (PWA) en la Unión Europea, una decisión que ha sacudido al mundo tecnológico. Haremos un recorrido por el origen y las características principales de las PWA, explicando cómo estas permiten a los usuarios disfrutar de una experiencia similar a la de las aplicaciones nativas directamente desde su navegador, incluyendo funcionalidades como el modo offline, acceso a la cámara y geolocalización.<br /><br />https://open-web-advocacy.org/blog/its-official-apple-kills-web-apps-in-the-eu/<br />https://whatpwacando.today/<br /><br />Más en <a href="https://webreactiva.com" target="_blank" rel="noreferrer noopener">Web Reactiva</a><br /><br />WR | WR281]]></itunes:summary>
+<itunes:duration>839</itunes:duration>
+<itunes:keywords>apple,pwa,webreactiva</itunes:keywords>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/4fc359fbca960e083d336acb2993ebad.jpg"/>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+<script/>
+</rss>
