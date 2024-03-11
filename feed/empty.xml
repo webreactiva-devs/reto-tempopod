@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+<script/>
+<script/>
+<channel>
+<title>Web Reactiva</title>
+<link>https://www.webreactiva.com/podcast</link>
+<description><![CDATA[Web Reactiva es un podcast sobre <a href="https://www.webreactiva.com/podcast" target="_blank" rel="noreferrer noopener">desarrollo y programación web</a>. Estamos en https://webreactiva.com .<br /><br />Te contaré historias para programadores que nunca antes habrás escuchado;)<br />Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, ecommerce, cloud, despliegues, frontend, programación a medida y más cosas. También hablaremos del negocio que podemos crear en torno al mundo developer.]]></description>
+<atom:link href="https://www.spreaker.com/show/2676652/episodes/feed" rel="self" type="application/rss+xml"/>
+<language>es</language>
+<category>Technology</category>
+<copyright>Copyright Daniel</copyright>
+<image>
+<url>https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/445b8e758d3f127223542d4132560c58.jpg</url>
+<title>Web Reactiva</title>
+<link>https://www.webreactiva.com/podcast</link>
+</image>
+<lastBuildDate>Thu, 29 Feb 2024 09:20:14 +0000</lastBuildDate>
+<itunes:author>Daniel Primo</itunes:author>
+<itunes:owner>
+<itunes:name>Daniel Primo</itunes:name>
+<itunes:email>hola@danielprimo.io</itunes:email>
+</itunes:owner>
+<itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/445b8e758d3f127223542d4132560c58.jpg"/>
+<itunes:subtitle>Web Reactiva es un podcast de desarrollo y programación web. Recursos OpenSource y reflexiones personales sobre el ecosistema de creación de web.</itunes:subtitle>
+<itunes:summary><![CDATA[Web Reactiva es un podcast sobre <a href="https://www.webreactiva.com/podcast" target="_blank" rel="noreferrer noopener">desarrollo y programación web</a>. Estamos en https://webreactiva.com .<br /><br />Te contaré historias para programadores que nunca antes habrás escuchado;)<br />Recursos, reflexiones y todo el ecosistema de producción web: backend, frameworks, cms, ecommerce, cloud, despliegues, frontend, programación a medida y más cosas. También hablaremos del negocio que podemos crear en torno al mundo developer.]]></itunes:summary>
+<itunes:category text="Technology"/>
+<itunes:category text="Education">
+<itunes:category text="Courses"/>
+</itunes:category>
+<itunes:category text="Business">
+<itunes:category text="Entrepreneurship"/>
+</itunes:category>
+<itunes:explicit>clean</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+</channel>
+<script/>
+</rss>
